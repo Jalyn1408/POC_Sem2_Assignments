@@ -158,4 +158,4 @@ def game_loop():
     print("GAME OVER")
 
 
-game_loop()a
+game_loop()
